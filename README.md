@@ -28,7 +28,7 @@ To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
 
-Check out the live demo of the application at "" to see it in action.
+Check out the live demo of the application at "https://saiavinash1308.github.io/To-do-list-CodingNinjas/" to see it in action.
 
 
 ## Authors
